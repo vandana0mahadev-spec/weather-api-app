@@ -10,6 +10,7 @@ React frontend + Spring Boot backend weather application with external weather A
 
 ## Project URL
 GitHub Repository: https://github.com/vandana0mahadev/weather-api-app
+project URL: http://localhost:5173/
 
 ## Frontend
 ```bash
