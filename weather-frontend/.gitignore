@@ -1,0 +1,23 @@
+# Frontend
+weather-frontend/node_modules/
+weather-frontend/dist/
+
+# Backend
+weather-backend/build/
+weather-backend/.gradle/
+weather-backend/bin/
+
+# IDE
+.idea/
+.vscode/
+.project
+.classpath
+.settings/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Env / secrets
+.env
+*.log
