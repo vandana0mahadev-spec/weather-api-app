@@ -9,8 +9,8 @@ React frontend + Spring Boot backend weather application with external weather A
 - Redis
 
 ## Project URL
--https://github.com/vandana0mahadev-spec/weather-api-app
 -https://roadmap.sh/projects/weather-api-wrapper-service
+
 ## Frontend
 ```bash
 cd weather-frontend
